@@ -23,13 +23,9 @@ app.get("/edel-series",function(req,res)
 {
     res.render('edel-series');
 });
-app.get("/emage-series",function(req,res)
+app.get("/treasia-series",function(req,res)
 {
-    res.render('emage-series');
-});
-app.get("/ritela-series",function(req,res)
-{
-    res.render('ritela-series');
+    res.render('treasia-series');
 });
 app.get("/phu-kien-tu-bep",function(req,res)
 {
