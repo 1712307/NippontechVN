@@ -35,3 +35,12 @@ app.get("/phu-kien-tu-bep",function(req,res)
 {
     res.render('phu-kien-tu-bep');
 });
+app.get("/he-tu-bep",function(req,res)
+{
+    res.render('he-tu-bep');
+});
+
+app.get("/he-tu-guong",function(req,res)
+{
+    res.render('he-tu-guong');
+});
