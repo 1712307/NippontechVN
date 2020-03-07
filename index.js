@@ -9,9 +9,29 @@ app.listen(port);
 app.set('view engine','ejs');
 app.set('views','./views');
 app.use(express.static('./public'));
+//app.use(express.static('./views'))
 
 app.get("/",function(req,res)
 {
     res.render('home');
 });
-
+app.get("/lemure-series",function(req,res)
+{
+    res.render('lemure-series');
+});
+app.get("/edel-series",function(req,res)
+{
+    res.render('edel-series');
+});
+app.get("/emage-series",function(req,res)
+{
+    res.render('emage-series');
+});
+app.get("/ritela-series",function(req,res)
+{
+    res.render('ritela-series');
+});
+app.get("/phu-kien-tu-bep",function(req,res)
+{
+    res.render('phu-kien-tu-bep');
+});
