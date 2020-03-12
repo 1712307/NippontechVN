@@ -1,0 +1,58 @@
+color-1"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/1.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-2"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/2.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-3"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/3.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-4"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/4.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-5"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/5.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-6"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/6.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-7"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/7.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-8"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/8.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-9"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/9.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-10"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/10.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-11"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/11.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-12"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/12.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-13"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/13.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-14"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/14.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-15"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/15.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-16"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/16.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-17"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/17.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-18"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/18.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-19"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/19.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-20"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/20.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-21"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/21.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-22"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/22.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-23"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/23.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-24"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/24.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-25"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/25.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-26"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/26.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-27"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/27.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-28"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/28.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-29"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/29.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-30"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/30.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-31"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/31.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-32"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/32.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-33"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/33.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-34"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/34.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-35"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/35.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-36"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/36.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-37"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/37.jpg" alt="Màu sản phẩm"></div>
+                       <div class="item" data-color="color-38"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/bathroom/color/38.jpg" alt="Màu sản phẩm"></div>
+                    </div>
+                 </div>
+              </div>
+              <div class="col-lg-4 col-md-12 col-12">
+                 <div class="wrap-product">
+                    <h3>CÁC PHỤ KIỆN PHÒNG TẮM</h3><p><strong>Kệ để đồ</strong></p><p>Với thành phần chủ yếu từ thủy tinh tự nhiên, thiết kế đơn giản nhưng chắc chắn của bệ đá thạch anh, có 3 lựa chọn màu sắc dưới đây</p><ul><li><strong>Q: Đen thạch anh (Jewel plaque)</strong></li><li><strong>D: Nâu thạch anh (Cashew brown)</strong></li><li><strong>H: Trắng thạch anh (Bransolve)</strong></li></ul><p><img src="https://b-f23-zpg.zdn.vn/7741254011365621107/3b389c3da6cf409119de.jpg"></p><p><strong>Giá đỡ nam châm</strong></p><p>Được gắn chắc chắn vào tường bằng lực kép của nam châm và lực hút. Tải trọng tối đa là 1.5kg, vì vậy giá khó bị trượt hay rơi vỡ.</p><p><img src="https://b.f11.group.zp.zdn.vn/6285417766240380185/a6d157db6d298b77d238.jpg"></p><p><strong>Loa Bluetooth gắn nam châm</strong></p><p>Có khả năng chống nước, được kết nối với smartphone của bạn, vừa nghe nhạc vừa thư giãn trong bồn tắm. Nhờ mặt nam châm sau lưng, âm nhạc có thể theo bạn đến bất cứ nơi đâu.</p><p><img src="https://b-f23-zpg.zdn.vn/2476747290533480683/2505a00f9afd7ca325ec.jpg"><br></p><p><strong>Cửa thoát nước</strong></p><p>Khu vực xả nước có dụng cụ lọc tóc hoặc rác thải, dễ dàng sử dụng, tránh tình trạng tắc nghẽn ống thoát nước.</p><p><img src="https://b.f11.group.zp.zdn.vn/4669108386720309662/dad8fdd3c721217f7830.jpg"><br></p><p><strong>Máy sưởi phòng tắm</strong> </p><p "="">Máy sưởi có thể ấm vào mùa đông, giúp không gian phòng tắm trở nên ấm áp vào những ngày lạnh giá. Đồng thời, với quần áo bị ẩm ướt, chưa kịp phơi khô vào những ngày mưa, bạn có thể treo đồ giặt trong phòng tắm để đồ được hong khô mau hơn. </p><p><img src="https://lh3.googleusercontent.com/m_cZc0Ld-4IQugaMSfP9MzOuZpdDdFmZjvqdA6vLo9C-IA30QORBdh2vUs6GXLkCCwWa60HxHqiUUITlxmrYT0ikCvIwr-ThHtx67Gm5cZHg905wgRt43DnDYexp_KgRJ4_1gK4F"><br></p><blockquote style="margin-left: 5px;"></blockquote>
+                 </div>
+              </div>
+           </div>
+         </div>
+         <div class="dsnone">
+           <h1>Hệ nhà tắm thép tráng men kính Nhật Bản</h1>
+           <h2>Hệ nhà tắm thép tráng men kính Nhật Bản</h2>
+           <h2>Hệ nhà tắm thép tráng men kính Nhật Bản</h2>
+           <h3>Hệ nhà tắm thép tráng men kính Nhật Bản</h3>
+           <h3>Hệ nhà tắm thép tráng men kính Nhật Bản</h3>
+           <h3>Hệ nhà tắm thép tráng men kính Nhật Bản</h3>
+         </div>
+           <!--footer-->
+<footer>

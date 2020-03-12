@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="vi" dir="ltr">
+   <head>
+    <%- include("./partials/head") -%> 
+   <meta name="description" content="ONDINE - Dòng Washstand đặc biệt với thiết kế chậu rửa cũng bằng Thép tráng men kính">
+   <meta name="keywords" content="ONDINE - Dòng Washstand đặc biệt với thiết kế chậu rửa cũng bằng Thép tráng men kính">
+   <meta property="og:title" content="ONDINE - Dòng Washstand đặc biệt với thiết kế chậu rửa cũng bằng Thép tráng men kính" />
+   <meta property="og:description" content="ONDINE - Dòng Washstand đặc biệt với thiết kế chậu rửa cũng bằng Thép tráng men kính" />
+   <title>ONDINE series | Takara standard</title>
+   <style type="text/css">
+      .slides ul li:after {display: none;}.wraper{height: inherit !important}.owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled{display: block}.title-section::after{display: none}
+   </style>
+   <script type="text/javascript">
+      var ajaxurl = "https://takarastandard.vn/wp-admin/admin-ajax.php";
+   </script>
+</head>
+<body>
+   <main class="main list washstand">
+      <!-- header -->
+      <%- include("./partials/header") -%> 
+      <!--------------------------------------------->
+      <!-- CONTENT PRODCUT -->
+      <div class="row pc">
+         <div class="wraper">
+            <div class="slides">
+                  <div class="owl-carousel owl-theme" id="slider-ondine">
+                                                                  <div class="item">
+                      <img src="https://takarastandard.vn/wp-content/uploads/2019/11/khung-hinh-website-Ondine_result.jpg" alt="Mẫu sản phẩm Ondine">
+                    </div>
+                                         </div>
+            </div>
+         </div>
+      </div>
+      <div class="row mobi">
+         <div class="wraper">
+            <div class="slides">
+                  <div class="owl-carousel owl-theme" id="slider-ondine1">
+                                                                  <div class="item">
+                      <img src="https://takarastandard.vn/wp-content/uploads/2019/11/SU_001208_result.jpg" alt="Mẫu sản phẩm Ondine">
+                    </div>
+                                           <div class="item">
+                      <img src="https://takarastandard.vn/wp-content/uploads/2019/11/SU_001185_result.jpg" alt="Mẫu sản phẩm Ondine">
+                    </div>
+                                           <div class="item">
+                      <img src="https://takarastandard.vn/wp-content/uploads/2019/11/SU_000983_result.jpg" alt="Mẫu sản phẩm Ondine">
+                    </div>
+                                           <div class="item">
+                      <img src="https://takarastandard.vn/wp-content/uploads/2019/11/SU_001132_result.jpg" alt="Mẫu sản phẩm Ondine">
+                    </div>
+                                         </div>
+            </div>
+         </div>
+      </div>
+      <div data-wow-delay=".25s" class="row title-product justify-content-center wow bounceIn">
+         <div class="col-lg-2 col-md-12 col-12">
+            <div class="logo-product"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-Logo.png" alt="Odine Logo"></div>
+         </div>
+      </div>
+      <div class="container mb-4">
+         <!-- SLIDES -->
+         <!-- CONTENT -->
+         <div class="row " style="padding-bottom:30px">
+            <div data-wow-duration="1s" class="col-md-12 wow fadeIn" style="background-color: white;">
+               <div class="title-section washstand-title">
+                  <h3>HAI PHƯƠNG ÁN LỰA CHỌN CHẬU RỬA</h3><p>Hệ tủ gương Thép tráng men kính (Washstand) dòng ONDINE có hai lựa chọn kiểu dáng chậu rửa độc đáo:</p>                  </div>
+               <div class="row mt-4" style="padding-bottom:30px">
+                  <div class="col-md-6 col-sm-12 col-12">
+                     <div class="img-content">
+                        <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-index-point-01.jpg" alt="Mẫu sản phẩm Ondine">
+                     </div>
+                  </div>
+                  <div class="col-md-6 col-sm-12 col-12">
+                     <div class="img-content">
+                        <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-index-point-02.jpg" alt="Mẫu sản phẩm Ondine">
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div data-wow-duration="1s" class="col-md-12 asd wow fadeIn">
+               <div class="title-section washstand-title">
+                  <h3>NHỮNG ƯU ĐIỂM CỦA WASHSTAND DÒNG ONDINE</h3><p>Washstand dòng ONDINE sở hữu rất nhiều ưu điểm của vật liệu Thép tráng men kính:</p>                  </div>
+            </div>
+            <div data-wow-duration="1s" class="col-md-12 mt-4 zxc wow fadeIn" style="padding-bottom:30px">
+               <div class="row">
+                  <div class="col-md-6 col-sm-12 col-12 mt-4 box-content-wash">
+                     <div class="img-content fix-img-content">
+                        <img src="https://takarastandard.vn/wp-content/uploads/2019/09/Ondine-Easy-to-clean.jpg" alt="Dễ dàng vệ sinh">
+                     </div>
+                     <div class="text-wash">
+                        <h3>Dễ dàng vệ sinh với chậu rửa bằng Thép tráng men kính</h3><p>Washstand dòng ONDINE có thiết kế chậu rửa cũng bằng Thép tráng men kính nên bề mặt chậu rửa cũng như ngăn tủ không bị thấm nước, kháng bụi bẩn tốt giúp cho khu vực này luôn sạch sẽ, khô ráo và vệ sinh.</p>                        </div>
+                  </div>
+                  <div class="col-md-6 col-sm-12 col-12 mt-4 box-content-wash">
+                     <div class="img-content fix-img-content">
+                        <img src="https://takarastandard.vn/wp-content/uploads/2019/09/Ondine-Ngan-tu-mo-rong.jpg" alt="Ngăn kéo mở rộng - tăng cường khả năng cất trữ">
+                     </div>
+                     <div class="text-wash">
+                        <h3>Ngăn kéo mở rộng - tăng cường khả năng cất trữ</h3><p>Ngăn kéo mở rộng là đặc trưng khác biệt của Washstand dòng ONDINE so với các dòng Washstand khác. Ngăn kéo mở rộng nằm ngay dưới chậu rửa và phía trên các ngăn tủ chính, thường dùng để chứa các vật dụng nhỏ, sử dụng thường xuyên.</p>                        </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-6 col-sm-12 col-12 mt-4 box-content-wash">
+                     <div class="img-content fix-img-content">
+                        <img src="https://takarastandard.vn/wp-content/uploads/2019/09/Ondine-Do-ben-tuyet-voi.jpg" alt="Độ bền tuyệt vời">
+                     </div>
+                     <div class="text-wash">
+                        <h3>Độ bền vượt trội</h3><p>Chậu rửa của Washstand dòng ONDINE được thiết kế bằng vật liệu Thép tráng men kính có khả năng chống sốc tốt, độ bền vượt trội, có thể chịu được va đập trong quá trình sử dụng mà không sợ bị hư hại, trầy xước.</p>                        </div>
+                  </div>
+                  <div class="col-md-6 col-sm-12 col-12 mt-4 box-content-wash">
+                     <div class="img-content fix-img-content">
+                        <img src="https://takarastandard.vn/wp-content/uploads/2019/09/Ondine-High-quality-enamel.jpg" alt="Dễ dàng tùy biết với phụ kiện nam châm">
+                     </div>
+                     <div class="text-wash">
+                        <h3>Dễ dàng tùy biến với phụ kiện hút nam châm</h3><p>Tấm ốp tường và ngăn tủ của Washstand dòng ONDINE có lõi bằng kim loại, do đó có thể dễ dàng tùy biến kệ chứa đồ bằng phụ kiện hút nam châm. Vị trí mắc treo khăn mặt, hộp đựng bàn chải, mắc treo máy sấy tóc... có thể thay đổi bất kỳ lúc nào mà không phải đóng đinh lên tường <a href="https://takarastandard.vn/dac-tinh">(tìm hiểu thêm)</a>.</p>                        </div>
+                  </div>
+               </div>
+            </div>
+            <div data-wow-duration="1s" class="col-md-12 asd wow fadeIn">
+               <div class="title-section washstand-title">
+                  <h3>Lựa chọn kích cỡ và màu sắc</h3><p>Khách hàng có thể tùy chọn kích thước và màu sắc sản phẩm phù hợp với sở thích và cá tính của mình. </p><p>Một Washstand tiệp màu với Hệ tủ bếp sẽ tạo phong cách riêng cho ngôi nhà thân yêu của bạn<span class="redactor-invisible-space">!</span></p>                  </div>
+            </div>
+            <div data-wow-duration="1s" class="col-md-12 mt-4 zxc wow fadeIn">
+               <div class="row">
+                  <div class="col-md-6 col-12 qwe">
+                     <h4>màu sắc (7 lựa chọn)</h4>
+                     <div class="wrapper2">
+                        <div class="slides2">
+                           <ul>
+                              <li id="color-1">
+                                 <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usa-picture.png" alt="Màu sắc Ondine 1">
+                              </li>
+                              <li class="hienra" id="color-2">
+                                 <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usb-picture.png" alt="Màu sắc Ondine 2">
+                              </li>
+                              <li id="color-3">
+                                 <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usf-picture.png" alt="Màu sắc Ondine 3">
+                              </li>
+                              <li id="color-4">
+                                 <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usg-picture.png" alt="Màu sắc Ondine 4">
+                              </li>
+                              <li id="color-5">
+                                 <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usp-picture.png" alt="Màu sắc Ondine 5">
+                              </li>
+                              <li id="color-6">
+                                 <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-ust-picture.png" alt="Màu sắc Ondine 6">
+                              </li>
+                              <li id="color-7">
+                                 <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usw-picture.png" alt="Màu sắc Ondine 7">
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="owl-carousel owl-theme mt-4 color-click carousel-auto" id="color-product">
+                        <div class="item" data-color="color-1"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usa-thumb.jpg" alt="Màu sắc Ondine"></div>
+                        <div class="item" data-color="color-2"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usb-thumb.jpg" alt="Màu sắc Ondine"></div>
+                        <div class="item" data-color="color-3"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usf-thumb.jpg" alt="Màu sắc Ondine"></div>
+                        <div class="item" data-color="color-4"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usg-thumb.jpg" alt="Màu sắc Ondine"></div>
+                        <div class="item" data-color="color-5"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usp-thumb.jpg" alt="Màu sắc Ondine"></div>
+                        <div class="item" data-color="color-6"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-ust-thumb.jpg" alt="Màu sắc Ondine"></div>
+                        <div class="item" data-color="color-7"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-usw-thumb.jpg" alt="Màu sắc Ondine"></div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 col-12 qwe">
+                     <h4>KÍCH CỠ</h4>
+                     <ul class="list-3">
+                        <li class="show-img" id="change-1">
+                           <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-series-60FL-12L.png" alt="Ondine 60FL-12L">
+                        </li>
+                        <li id="change-2">
+                           <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-series-75FL-11L.png" alt="Ondine 75FL-11L">
+                        </li>
+                        <li id="change-3">
+                           <img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-series-75HB-17L.png" alt="Ondine 75HB-17L">
+                        </li>
+                     </ul>
+                     <div class="owl-carousel owl-theme mt-4 change-click carousel-auto" id="ondine-size">
+                        <div class="item" data-change="change-1"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-series-60FL-12L-thumb.png" alt="Ondine 60FL-12L"></div>
+                        <div class="item" data-change="change-2"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-series-75FL-11L-thumb.png" alt="Ondine 75FL-11L"></div>
+                        <div class="item" data-change="change-3"><img src="https://takarastandard.vn/wp-content/themes/takarastandard/img/Ondine-series-75HB-17L-thumb.png" alt="Ondine 75HB-17L"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+     </div>
+         <!--footer-->
+<footer>
+    <%- include("./partials/footer") -%> 
+</footer>
+</div>
+</main>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDTXCV5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script src="https://takarastandard.vn/wp-content/themes/takarastandard/js/jquery-3.2.1.min.js"></script>
+<script src="https://takarastandard.vn/wp-content/themes/takarastandard/js/bootstrap.min.js"></script>
+<script src="https://takarastandard.vn/wp-content/themes/takarastandard/js/jquery-easing/jquery.easing.min.js"></script>
+<script src="https://takarastandard.vn/wp-content/themes/takarastandard/owlcarousel/owl.carousel.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/wow/0.1.12/wow.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+      new WOW().init();
+      function validate(evt){var theEvent=evt||window.event;if(theEvent.type==='paste'){key=event.clipboardData.getData('text/plain');}else{var key=theEvent.keyCode||theEvent.which;key=String.fromCharCode(key);}
+      var regex=/[0-9()]|\+/;if(!regex.test(key)){theEvent.returnValue=false;if(theEvent.preventDefault)theEvent.preventDefault();}}
+      $('#facebookchat').on('click',function() {$('.fb_reset').css("opacity", "1");});
+      $(document).scroll(function(){var y=$(this).scrollTop();if(y>100){$('.menu-header').addClass('menu-fixed')}else{$('.menu-header').removeClass('menu-fixed')}});
+     $(".scroll-to-top").click(function(){$('html, body').animate({scrollTop:0},1000);return false;});
+</script>
+<!--<script type='text/javascript'>var message="NoRightClicking";function defeatIE(){if(document.all){(message);return false;}}
+function defeatNS(e){if(document.layers||(document.getElementById&&!document.all)){if(e.which==2||e.which==3){(message);return false;}}}
+if(document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=defeatNS;}else{document.onmouseup=defeatNS;document.oncontextmenu=defeatIE;}
+document.oncontextmenu=new Function("return false")</script><script type='text/javascript'>checkCtrl=false $(&#39;*&#39;).keydown(function(e){if(e.keyCode==&#39;17&#39;){checkCtrl=false}}).keyup(function(ev){if(ev.keyCode==&#39;17&#39;){checkCtrl=false}}).keydown(function(event){if(checkCtrl){if(event.keyCode==&#39;85&#39;){return false;}}})</script>-->
+   <script type="text/javascript" src="https://takarastandard.vn/wp-content/themes/takarastandard/js/script-home.js"></script>
+   <script type="text/javascript" src="https://takarastandard.vn/wp-content/themes/takarastandard/js/navbar-mobile.js"></script>
+   <script type="text/javascript">
+      $('html').on('click','.change-click .item',function(){var change=$(this).attr('data-change');$('html').find('.list-3 li').removeClass('show-img');$('html').find('.list-3 li#'+change).addClass('show-img')});$('html').on('click','.color-click .item',function(){var color=$(this).attr('data-color');$('html').find('.slides2 ul li').removeClass('hienra');$('html').find('.slides2 ul li#'+color).addClass('hienra')});document.addEventListener("DOMContentLoaded",function(){auto2();var slides2=document.querySelectorAll('div.slides2 ul li')
+      var cuoicung2=slides2.length-1;function auto2(){var thoigian2=setInterval(function(){var vitrislideht=0;var slideht2=document.querySelector('ul li.hienra');for(var i=0;slideht2=slideht2.previousElementSibling;vitrislideht++){}
+      for(var i=0;i<slides2.length;i++){slides2[i].classList.remove('hienra')}
+      if(vitrislideht==cuoicung2){vitrislideht=-1}
+      slides2[vitrislideht+1].classList.add('hienra')},3000)
+      var stop=document.querySelectorAll('.color-click .item');for(var i=0;i<stop.length;i++){stop[i].addEventListener('click',function(){clearInterval(thoigian2)})}}},!1)
+   </script>
+   <script>
+      $('#color-product').owlCarousel({loop:true,margin:2,nav:true,responsive:{0:{items:5},600:{items:5},1000:{items:5}}});
+      $('#ondine-size').owlCarousel({loop:true,margin:2,nav:true,responsive:{0:{items:5},600:{items:5},1000:{items:5}}});
+      $('#slider-ondine').owlCarousel({loop:true,margin:10,nav:true,items:1,dots:false,autoplay:true,autoPlaySpeed:3000,autoplayTimeout:3000,autoplayHoverPause:false});
+      $('#slider-ondine1').owlCarousel({loop:true,margin:10,nav:true,items:1,dots:false,autoplay:true,autoPlaySpeed:3000,autoplayTimeout:3000,autoplayHoverPause:false});
+   </script>
+</body>
+</html
