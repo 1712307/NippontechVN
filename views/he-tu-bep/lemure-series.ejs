@@ -207,4 +207,4 @@ document.oncontextmenu=new Function("return false")</script><script type='text/j
       $(function(){$('form').on('submit',function(e){e.preventDefault();$.ajax({type:'post',url:ajaxurl,data:"action=contactform&"+$('form').serialize(),success:function(data){bootbox.alert(data.message,function(){$("#form_contact #name").val("");$("#form_contact #phone").val("");$("#form_contact #title").val("");$("#form_contact textarea").val("");});}});$("#myModal").fadeOut(500);$("#form_contact").fadeOut(500);$(".modal-backdrop").fadeOut(500)});});$('#color-product').owlCarousel({loop:true,margin:2,nav:true,responsive:{0:{items:5},600:{items:5},1000:{items:5}}});$('#slider-lemure').owlCarousel({loop: true,margin:10,nav:true,items:1,dots:true,autoplay:true,autoPlaySpeed:8000,autoplayTimeout:8000,autoplayHoverPause:false,animateOut: 'fadeOut'});
    </script>
 </body>
-</html
+</html>
